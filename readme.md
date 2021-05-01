@@ -4,7 +4,7 @@
 
   <p align="center">
 HTML,CSS,Bootstrap으로 구현된 Landing Page입니다.
-    <br/>웹 사이트는 <a href="http://cano.jeongkoo.com/">DEMO</a>에서 확인하실 수 있습니다.
+    <br/>웹 사이트는 <a href="https://cano.jeongkoo.com/">DEMO</a>에서 확인하실 수 있습니다.
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
@@ -26,11 +26,10 @@ HTML,CSS,Bootstrap으로 구현된 Landing Page입니다.
 - CSS를 몰라도 제작 가능하지만, CSS에 친숙하다면 디자인도 자유롭게 변경할 수 있습니다.
 
 ## Setup And Deployment 🔧
-1. 내 프로젝트로 Fork합니다.
-2. repository를 clone하여 로컬로 내려받습니다.
+repository clone
 
     ```
-    git clone {저장소URL}
+    git clone https://github.com/congchu/cano-landing.git
     ```
 
 4. 내용을 원하는대로 수정합니다.
